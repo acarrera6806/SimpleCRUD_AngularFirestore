@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.botonAuth {
+    width: 80%;
+    height: 3rem;
+    border: unset;
+    background-color: #327ef4;
+    color: white;
+}
+
+.botonGoogle {
+    width: 80%;
+    height: 3rem;
+    background-color: #d94f3f;
+    color: white;
+    border: unset;
+}
